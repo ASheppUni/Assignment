@@ -14,3 +14,5 @@
 # Set the maximum width of the page to 800px.
 # All headings within the article should have a top padding of 50px.
 # Set the layout of the main content section such that the 'related links' portion is to the right of the article. (Hint: This might be a difficult task; you may require some additional research to complete it).
+
+# Saw in chat refered staf as 'Teaching Team' must be a joke , poor taste if it is
