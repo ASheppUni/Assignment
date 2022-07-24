@@ -16,3 +16,4 @@
 # Set the layout of the main content section such that the 'related links' portion is to the right of the article. (Hint: This might be a difficult task; you may require some additional research to complete it).
 
 # Saw in chat refered staf as 'Teaching Team' must be a joke , poor taste if it is
+#Let Down By Staff due to refusal to extend and an inability to use the 2 days i have in adelaide and having been launched into the course 3 weeks late due to misinformation provideded by UniSA to complete 4 weeks of work being told to google the way to fix rather than having actual course work related to task is disapointing but becoming a common theme at UniSA 
